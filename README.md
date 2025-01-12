@@ -1,5 +1,5 @@
 # 🐵 Programação para Símios
-
+![Esse é o Simos.](https://i.ibb.co/QpY6vVG/monka.png)
 Bem-vindo ao **Programação para Símios**! Este repositório é dedicado a ensinar conceitos de programação de uma maneira **simples**, **visual** e **divertida**, para quem acha que programação é um bicho de sete cabeças. Se você sente dificuldade em entender lógica de programação, **este lugar é para você!**
 
 ---
