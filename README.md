@@ -1,1 +1,1 @@
-# programacao-para-burros
+# programacao-para-simios
